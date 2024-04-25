@@ -1,0 +1,47 @@
+main {
+    padding: 64px 32px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-section {
+    padding: 16px;
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+
+.section-celcius {
+    padding-top: 16px;
+}
+
+.section-fahrenheit {
+    padding-top: 16px;
+}
+
+.section-result {
+    padding-top: 16px;
+}
+
+textarea {
+    width: 75%;
+    height: 32px;
+}
+
+#button-convert {
+    background-color: rgba(2, 255, 14, 0.589);
+    color: white;
+    border-radius: 10px;
+}
+
+#button-reset {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+#button-reverse {
+    background-color: pink;
+    border-radius: 10px;
+}
